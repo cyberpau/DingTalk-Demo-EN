@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Backend
+target/
+
+*.iml
+.idea
+.idea/*
+.DS_Store
+back-end/.classpath
+back-end/.project
+back-end/.settings
+
+# Please uncomment this when changes are made to Constant.java except APP_ID and APP_SECRET
+back-end\src\main\java\com\config\Constant.java
