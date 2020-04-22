@@ -20,7 +20,21 @@ This repository is based from two repos on DingTalk QuickStart (https://ding-doc
 3. Java JDK (Preferably Java 8), Maven, NPM
 
 #### Steps:
-1. Clone this repo
-2. Modify the configuration `.\back-end\src\main\java\com\config\Constant.java` to replace `APP_ID` and `APP_SECRET` based from https://ding-doc.dingtalk.com/doc#/personnal/ekyhmf
+On `back-end\` directory, do the following:
 
-3. 
+1. Modify the configuration `.\src\main\java\com\config\Constant.java` to replace `APP_ID` and `APP_SECRET` based from https://ding-doc.dingtalk.com/doc#/personnal/ekyhmf
+
+2. Package the app
+
+    `mvn clean package`
+
+3. Run the app
+
+    `java -jar  target/eapp-personal-quick-start-1.0.0.jar`
+
+4. Verify if back-end is running properly  at `http://localhost:8080/welcome` 
+
+
+On `front-end\` directory, do the following:
+
+1. 
