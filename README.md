@@ -37,4 +37,9 @@ On `back-end\` directory, do the following:
 
 On `front-end\` directory, do the following:
 
-1. 
+1. Using Mini Progam Studio, open the folder front-end\
+
+2. Login to DingTalk and you should be able to compile the codes without issues.
+
+
+For chatbot service:
