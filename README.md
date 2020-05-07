@@ -42,4 +42,3 @@ On `front-end\` directory, do the following:
 2. Login to DingTalk and you should be able to compile the codes without issues.
 
 
-For chatbot service:
