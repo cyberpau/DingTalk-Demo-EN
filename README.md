@@ -1,4 +1,4 @@
-# DingTalk-Dev (English)
+# DingTalk-Demo (English)
 This repository is based from two repos on DingTalk QuickStart (https://ding-doc.dingtalk.com/doc#/personnal/ekyhmf)
 1. Applet Server Code
 
